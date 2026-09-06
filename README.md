@@ -349,3 +349,21 @@ This project is released under the MIT License. Feel free to fork, modify, and b
 
 
 Built as a mechanical + electronics + firmware integration project — combining 3D-printed hardware, machined rod stock, and a CoreXY belt drive into a CNC-controlled writing machine.
+
+IMAGES:<img width="1280" height="960" alt="slider mechanism" src="https://github.com/user-attachments/assets/dcaf172e-1eef-4321-bfeb-04d7e843c1c6" />
+<img width="1280" height="960" alt="motor mounting" src="https://github.com/user-attachments/assets/03fc1a22-6009-4ab1-a313-945023cc01cd" />
+<img width="1280" height="960" alt="assembled machine without pen holder module" src="https://github.com/user-attachments/assets/fcd126c2-7f8b-419c-a734-089234bfbe70" />
+<img width="1280" height="960" alt="the belt joining piece" src="https://github.com/user-attachments/assets/26b1ce29-22dd-4b61-ba75-de2f61dc937e" />
+<img width="1200" height="1600" alt="the cut on the rod" src="https://github.com/user-attachments/assets/da66e94a-3e8d-4a35-b886-a6e94a149649" />
+<img width="960" height="1280" alt="rod being machined to use" src="https://github.com/user-attachments/assets/f44cba2c-d7fc-49c8-a5e8-1053a21e1d6c" />
+<img width="960" height="1280" alt="bearings in mount" src="https://github.com/user-attachments/assets/f346feaf-00f7-43d1-a4ce-8f8e1aee12ba" />
+<img width="1280" height="960" alt="parts" src="https://github.com/user-attachments/assets/62a38726-e870-47a2-bdbe-906ecda0bbed" />
+<img width="1600" height="845" alt="jg" src="https://github.com/user-attachments/assets/f8dbb9fb-ddcf-47df-863f-4be6ba6a4c1e" />
+<img width="1600" height="848" alt="jt" src="https://github.com/user-attachments/assets/b08dfb9c-64e5-474e-8448-9e8b7a85f7b0" />
+
+
+
+
+
+
+
